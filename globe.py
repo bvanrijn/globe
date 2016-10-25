@@ -84,3 +84,6 @@ if result['stdout'] != '':
 
 if result['stderr'] != '':
     print('stderr: {}'.format(result['stderr']))
+
+if result['error'] != '':
+    print('error: {}'.format(result['error']))
