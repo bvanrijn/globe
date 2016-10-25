@@ -10,5 +10,3 @@ Then optionally add `globe` to your `$PATH` using:
     chmod +x globe.py
     mv globe.py globe
     mv globe ~/bin
-
-This assumes that you have added `~/bin` to your `$PATH`.
